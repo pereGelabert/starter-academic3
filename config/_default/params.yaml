@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '41.629255'
   longitude: '0.597054'
-directions: Building 4 2.12 (Landscape and Forest Planing Lab)
+directions: Building 4 - 2.12 (Landscape and Forest Planing Lab)
 
 
 # Site header
@@ -121,8 +121,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: 1
-  api_key: 'AIzaSyAUBBxaSMBLYaCDFjn8fjB4w0gJk06guFE'
+  provider: ''
+  api_key: ''
   zoom: 15
 marketing:
   google_analytics: ''
