@@ -1,26 +1,27 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Pere Joan Gelabert Vadillo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name:  University of Lleida
+  url: https://www.udl.cat/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Forest Remote Sensing.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Remote Sensing
+- GIS
+- Machine Learning
+- Geography
 
 # Education to show in About widget
 education:
@@ -45,16 +46,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Pere_Gelabert
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?user=40T0FjwAAAAJ&hl=es
+- icon: orcid
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
+  link: https://orcid.org/0000-0001-8020-4932
+- icon: researchgate
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.researchgate.net/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,14 +65,12 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "perejoan.gelabert@udl.cat"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Geographer and Master in Geographic Information System (GIS) and Remote sensing (RS). My master thesis was focused on the estimation of forest structural diversity differences in landscapes affected by fires using LiDAR- Airborne Laser scanning data. Nowadays, I'm doing a PhD in Biodiversity and Landscape Ecology at Forest Planning and Landscape Analysis Laboratory of the University of Lleida giving support to IMAGINE project. My current work focuses on to analyze and quantify landscape changes produced in Pyrenees pastoral ecosystems through remote sensing imagery. I'm also involved in the generation of several GIS and RS products related to landscape analysis.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://cvn.fecyt.es/editor/cvnOnline/0000-0001-8020-4932" "newtab" >}}cv{{< /staticref >}}.
