@@ -26,7 +26,7 @@ feature:
   name: GIS
 - description: Remote Sensing data processing
   icon: Satellite
-  icon_pack: fas
+  icon_pack: fab
   name: Remote Sensing
 
 - description: Spatial modelling
