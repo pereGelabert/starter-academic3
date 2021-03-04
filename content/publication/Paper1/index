@@ -1,4 +1,5 @@
 ---
+hugo new --An example Paper2/<my-publication>
 title: "An example Paper2"
 
 # Authors
