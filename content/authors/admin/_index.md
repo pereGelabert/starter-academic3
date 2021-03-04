@@ -52,10 +52,10 @@ social:
   link: https://scholar.google.com/citations?user=40T0FjwAAAAJ&hl=es
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0001-8020-4932
+  link: https://orcid.org/0000-0001-8020-4932/
 - icon: researchgate
   icon_pack: fab
-  link: https://www.researchgate.net/profile/Pere-J-Vadillo
+  link: https://www.researchgate.net/profile/Pere-J-Vadillo/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
