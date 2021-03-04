@@ -55,7 +55,7 @@ social:
   link: https://orcid.org/0000-0001-8020-4932
 - icon: researchgate
   icon_pack: fab
-  link: https://www.researchgate.net/
+  link: https://www.researchgate.net/profile/Pere-J-Vadillo
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
