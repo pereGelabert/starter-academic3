@@ -16,18 +16,24 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: R code develope
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: Spatial analysis
+  icon: map-marked-alt
+  icon_pack: fas
+  name: GIS
+- description: Remote Sensing data processing
+  icon: Satellite
+  icon_pack: fas
+  name: Remote Sensing
+
+- description: Spatial modelling
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
