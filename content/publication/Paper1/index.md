@@ -33,7 +33,7 @@ abstract: Forest fires can change forest structure and composition, and low-dens
 
 
 
-tags: [GIS, Tomeu]
+tags: [ Forest structure, LIDAR, machine learning, landscape]
 
 # Display this page in the Featured widget?
 featured: true
