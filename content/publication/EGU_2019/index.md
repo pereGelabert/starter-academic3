@@ -38,7 +38,7 @@ featured: true
 # - name: Custom Link
 #   url: https://meetingorganizer.copernicus.org/EGU2019/EGU2019-18010.pdf
 
-url_pdf: ''
+url_pdf: 'https://meetingorganizer.copernicus.org/EGU2019/EGU2019-18010.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: 'Poster.pdf'
