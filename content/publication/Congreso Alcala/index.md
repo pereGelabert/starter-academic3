@@ -24,8 +24,8 @@ publishDate: "2021-03-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IV Reunión del grupo de ecología, ecofisiología y suelos forestales de la Sociedad Española de Ciencias Forestales. *
-publication_short: In *IV Reunión del grupo de ecología, ecofisiología y suelos forestales de la Sociedad Española de Ciencias Forestales. *
+publication: In *IV Reunión del grupo de ecología, ecofisiología y suelos forestales de la Sociedad Española de Ciencias Forestales.*
+publication_short: In *IV Reunión del grupo de ecología, ecofisiología y suelos forestales de la Sociedad Española de Ciencias Forestales.*
 
 
 
