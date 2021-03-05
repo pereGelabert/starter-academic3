@@ -71,6 +71,6 @@ email: "perejoan.gelabert@udl.cat"
 highlight_name: false
 ---
 
-I'm Geographer and Master in Geographic Information System (GIS) and Remote sensing (RS). My master thesis was focused on the estimation of forest structural diversity differences in landscapes affected by fires using LiDAR- Airborne Laser scanning data. Nowadays, I'm doing a PhD in Biodiversity and Landscape Ecology at Forest Planning and Landscape Analysis Laboratory of the University of Lleida giving support to IMAGINE project. My current work focuses on to analyze and quantify landscape changes produced in Pyrenees pastoral ecosystems through remote sensing imagery. I'm also involved in the generation of several GIS and RS products related to landscape analysis.  
+I am a Geographer and MSc in Geographic Information System (GIS) and Remote sensing (RS). Nowadays, I’m doing a PhD in Forest Remote Sensing at Forest Planning and Landscape Analysis Laboratory of the University of Lleida under IMAGINE project and University funding. My current work focuses on to analyze and quantify landscape changes in the Pyrenees through decades using remote sensing data. I’m also involved in the GIS and RS generation and manipulation data related to landscape analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://cvn.fecyt.es/editor/cvnOnline/0000-0001-8020-4932" "newtab" >}}cv{{< /staticref >}}.
