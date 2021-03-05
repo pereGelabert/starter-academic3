@@ -18,7 +18,7 @@ doi: "https://doi.org/10.1080/15481603.2020.1738060"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-03-01T00:00:00Z"
-	@@ -23,13 +22,13 @@ publishDate: "2021-03-01T00:00:00Z"
+publishDate: "2021-03-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
@@ -32,7 +32,7 @@ abstract: Forest fires can change forest structure and composition, and low-dens
 
 
 
-	@@ -41,7 +40,7 @@ featured: true
+featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
