@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Forestry Remote Sensing
+  - course: PhD candidate in Forestry Remote Sensing
     institution: University of Lleida
     year: Present
   - course: MsC in GIS ans RS
