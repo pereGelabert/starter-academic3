@@ -24,14 +24,14 @@ publishDate: "2021-03-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *XVIII Congreso Nacional TIG *
-publication_short: In *XVIII Congreso Nacional TIG *
+publication: In *IV Reunión del grupo de ecología, ecofisiología y suelos forestales de la Sociedad Española de Ciencias Forestales. *
+publication_short: In *IV Reunión del grupo de ecología, ecofisiología y suelos forestales de la Sociedad Española de Ciencias Forestales. *
 
 
 
 
 
-featured: true
+featured: false
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
