@@ -14,7 +14,7 @@ authors:
 
 
 date: "2019-04-28T00:00:00Z"
-doi: "https://meetingorganizer.copernicus.org/EGU2019/EGU2019-18010.pdf"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-03-01T00:00:00Z"
