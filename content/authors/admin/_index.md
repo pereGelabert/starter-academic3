@@ -31,10 +31,10 @@ education:
     year: Present
   - course: MsC in GIS ans RS
     institution: Universit of Zaragoza
-    year: 2009
+    year: 2017
   - course: Degree in Geogrpahy
     institution: University of Balearic Islands
-    year: 2016
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
