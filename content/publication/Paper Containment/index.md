@@ -30,7 +30,7 @@ publication_short: In *RISA*
 
 
 
-featured: true
+featured: false
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
