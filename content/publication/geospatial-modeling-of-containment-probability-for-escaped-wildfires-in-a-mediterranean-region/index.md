@@ -23,7 +23,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-links:
-  url_pdf:'https://onlinelibrary.wiley.com/doi/epdf/10.1111/risa.13524'
-date: 2021-03-06T18:18:27.021Z
+date: 2020-05-29T17:27:00.000Z
+links: url_pdf:'https://onlinelibrary.wiley.com/doi/epdf/10.1111/risa.13524'
 ---
