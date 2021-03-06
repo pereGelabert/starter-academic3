@@ -1,5 +1,5 @@
 ---
-title: Aitor Ameztegui
+title: Cristina Vega
 avatar_filename: ""
 social: []
 superuser: false
