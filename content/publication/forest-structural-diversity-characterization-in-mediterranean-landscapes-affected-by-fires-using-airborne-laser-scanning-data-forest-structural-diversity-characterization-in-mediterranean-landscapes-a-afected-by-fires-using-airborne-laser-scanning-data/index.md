@@ -19,5 +19,15 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+
+url_pdf: 'https://doi.org/10.1080/15481603.2020.1738060'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+© 2021 GitHub, Inc.
 date: 2020-02-27T19:23:54.074Z
 ---
