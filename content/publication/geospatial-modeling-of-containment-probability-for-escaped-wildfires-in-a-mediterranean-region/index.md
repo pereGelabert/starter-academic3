@@ -24,14 +24,14 @@ image:
   focal_point: Smart
   preview_only: false
 
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/risa.13524
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 date: 2020-05-29T17:27:00.000Z
 
 ---
