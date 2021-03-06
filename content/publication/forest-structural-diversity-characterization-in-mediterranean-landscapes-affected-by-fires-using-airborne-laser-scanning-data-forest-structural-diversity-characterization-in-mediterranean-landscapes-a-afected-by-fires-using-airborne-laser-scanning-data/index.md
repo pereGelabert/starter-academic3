@@ -28,6 +28,6 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-© 2021 GitHub, Inc.
+
 date: 2020-02-27T19:23:54.074Z
 ---
