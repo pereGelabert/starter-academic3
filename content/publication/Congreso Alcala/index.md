@@ -1,9 +1,5 @@
 ---
 url_pdf: http://secforestales.org/sites/default/files/archivos/libro_de_resumenes_def.pdf
-# links:
-# - name: "link1"
-#   url: "http://secforestales.org/sites/default/files/archivos/libro_de_resumenes_def.pdf"
-url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "1"
 authors:
@@ -34,3 +30,6 @@ url_poster: ""
 url_code: ""
 doi: ""
 ---
+\#links
+
+url_poster: http://arxiv.org/pdf/1512.04133v1
