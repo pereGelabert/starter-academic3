@@ -30,6 +30,3 @@ url_poster: ""
 url_code: ""
 doi: ""
 ---
-\#links
-
-url_poster: http://arxiv.org/pdf/1512.04133v1
