@@ -22,5 +22,13 @@ tags:
 image:
   focal_point: Smart
   preview_only: true
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0048969720363221?via%3Dihub
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 date: 2021-03-06T16:51:34.412Z
 ---
