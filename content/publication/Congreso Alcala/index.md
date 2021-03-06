@@ -7,7 +7,7 @@ authors:
   - Bernat Lavaquiol
   - admin
   - Marcos Rodrigues
-  - lluis-coll
+  - lluís-coll
 url_dataset: ""
 url_project: ""
 publication_short: In *IV Reunión del grupo de ecología, ecofisiología y suelos
