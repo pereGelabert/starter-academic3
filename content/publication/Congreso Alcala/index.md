@@ -3,8 +3,11 @@ url_pdf: http://secforestales.org/sites/default/files/archivos/libro_de_resumene
 publication_types:
   - "1"
 authors:
-  - content/author/aitor-ameztegui
+  - aitor-ameztegui
+  - bernat-lavaquiol
   - admin
+  - marcos-rodrigues
+  - lluis-coll
 url_dataset: ""
 url_project: ""
 publication_short: In *IV Reunión del grupo de ecología, ecofisiología y suelos
