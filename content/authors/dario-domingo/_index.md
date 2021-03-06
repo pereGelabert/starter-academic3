@@ -1,5 +1,5 @@
 ---
-title: Dario Domingo
+title: Darío Domingo
 avatar_filename: ""
 social: []
 superuser: false
