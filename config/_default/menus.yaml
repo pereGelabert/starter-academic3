@@ -9,7 +9,7 @@ main:
     weight: 10
   
   - name: Publications
-    url: '#featured'
+    url: https://pjgelabert.netlify.app/publication/
     weight: 20
   - name: Contact
     url: '#contact'
