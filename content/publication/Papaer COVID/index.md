@@ -6,6 +6,9 @@ publication_types:
 authors:
   - marcos-rodrigues
   - admin
+  - aitor-ameztegui
+  - lluís-coll
+  - cristina-vega
 author_notes: []
 doi: https://doi.org/10.1016/j.scitotenv.2020.142793
 publication: Science of the Total Environment
