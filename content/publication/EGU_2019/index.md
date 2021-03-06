@@ -27,4 +27,3 @@ url_poster: Poster.pdf
 url_code: ""
 doi: ""
 ---
-url pdf='*[https://ui.adsabs.harvard.edu/abs/2019EGUGA..2118010G](https://www.google.com/url?q=https%3A%2F%2Fui.adsabs.harvard.edu%2Fabs%2F2019EGUGA..2118010G&sa=D&sntz=1&usg=AFQjCNEPJVZNXmILTEXVF1i0or7Ah2rR6g)*'
