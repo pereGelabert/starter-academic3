@@ -3,7 +3,7 @@ url_pdf: http://secforestales.org/sites/default/files/archivos/libro_de_resumene
 publication_types:
   - "1"
 authors:
-  - aitor
+  - content/author/aitor-ameztegui
   - admin
 url_dataset: ""
 url_project: ""
