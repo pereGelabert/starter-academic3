@@ -1,6 +1,6 @@
 ---
 title: Cristina Vega-Garcia
-avatar_filename: ""
+avatar_filename: avatar.jpg
 social:
   - display:
       header: false
