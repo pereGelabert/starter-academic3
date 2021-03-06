@@ -24,5 +24,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2020-05-29T17:27:00.000Z
-links: url_pdf:'https://onlinelibrary.wiley.com/doi/epdf/10.1111/risa.13524'
+links: 
+  url_pdf:https://onlinelibrary.wiley.com/doi/epdf/10.1111/risa.13524
 ---
