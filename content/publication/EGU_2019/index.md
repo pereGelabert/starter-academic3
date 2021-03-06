@@ -1,5 +1,5 @@
 ---
-url_plf: https://meetingorganizer.copernicus.org/EGU2019/EGU2019-18010.pdf
+url_pdf: https://meetingorganizer.copernicus.org/EGU2019/EGU2019-18010.pdf
 publication_types:
   - "1"
 authors:
