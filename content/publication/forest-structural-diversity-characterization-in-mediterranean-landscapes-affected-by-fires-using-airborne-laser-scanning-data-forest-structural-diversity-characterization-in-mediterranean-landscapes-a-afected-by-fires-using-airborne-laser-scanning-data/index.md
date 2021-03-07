@@ -10,10 +10,10 @@ authors:
   - dario-domingo
 url_dataset: ""
 url_project: ""
-publication_short: "*GIScience & Remote Sensing*"
+publication_short: In *GIScience & Remote Sensing*
 url_source: ""
 url_video: ""
-publication: "*GIScience & Remote Sensing*"
+publication: In *GIScience & Remote Sensing*
 featured: true
 date: 2020-02-27T19:23:54.074Z
 url_slides: ""
