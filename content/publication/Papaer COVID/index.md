@@ -10,14 +10,14 @@ authors:
   - cristina-vega
 url_dataset: ""
 url_project: ""
-publication_short: "*STOTEN*"
+publication_short: In *STOTEN*
 url_source: ""
 url_video: ""
 title: Has COVID-19 halted winter-spring wildfires in the Mediterranean?
   Insights for wildfire science under a pandemic context
 author_notes: []
 doi: https://doi.org/10.1016/j.scitotenv.2020.142793
-publication: "*Science of the Total Environment*"
+publication: In *Science of the Total Environment*
 featured: true
 date: 2021-03-06T16:51:34.412Z
 url_slides: ""
