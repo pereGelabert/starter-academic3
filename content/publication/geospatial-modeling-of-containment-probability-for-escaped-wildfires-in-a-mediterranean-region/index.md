@@ -10,10 +10,10 @@ authors:
   - cristina-vega
 url_dataset: ""
 url_project: ""
-publication_short: "*RISA*"
+publication_short: In *RISA*
 url_source: ""
 url_video: ""
-publication: "*Risk Analysis*"
+publication: In *Risk Analysis*
 featured: false
 date: 2020-05-29T17:27:00.000Z
 url_slides: ""
