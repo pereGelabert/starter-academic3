@@ -10,13 +10,13 @@ authors:
   - dario-domingo
 url_dataset: ""
 url_project: ""
-publication_short: "*XVIII Congreso Nacional de TIG*"
+publication_short: In *XVIII Congreso Nacional de TIG*
 url_source: ""
 url_video: ""
 title: Caracterización de la diversidad estructural de paisajes forestales
   mediterráneos afectados por incendios recurrentes mediante datos LIDAR-PNOA
 author_notes: []
-publication: "*XVIII Congreso Nacional de TIG*"
+publication: In *XVIII Congreso Nacional de TIG*
 featured: true
 image:
   filename: ""
