@@ -68,7 +68,7 @@ social:
 email: "perejoan.gelabert@udl.cat"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 I am a Geographer and MSc in Geographic Information System (GIS) and Remote sensing (RS). Nowadays, I’m doing a PhD in Forest Remote Sensing at Forest Planning and Landscape Analysis Laboratory of the University of Lleida under IMAGINE project and University funding. My current work focuses on to analyze and quantify landscape changes in the Pyrenees through decades using remote sensing data. I’m also involved in the GIS and RS generation and manipulation data related to landscape analysis.
