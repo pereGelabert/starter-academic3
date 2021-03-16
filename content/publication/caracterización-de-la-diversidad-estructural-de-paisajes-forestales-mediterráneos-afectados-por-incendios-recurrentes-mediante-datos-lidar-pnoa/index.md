@@ -17,7 +17,7 @@ title: Caracterización de la diversidad estructural de paisajes forestales
   mediterráneos afectados por incendios recurrentes mediante datos LIDAR-PNOA
 author_notes: []
 publication: In *XVIII Congreso Nacional de TIG*
-featured: true
+featured: false
 image:
   filename: ""
   focal_point: Smart
