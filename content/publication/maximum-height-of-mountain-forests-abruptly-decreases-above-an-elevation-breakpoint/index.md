@@ -11,14 +11,14 @@ authors:
   - lluis-coll
 url_dataset: ""
 url_project: ""
-publication_short: GIScience & Remote Sensing
+publication_short: "*GIScience & Remote Sensing*"
 url_source: ""
 url_video: ""
 title: Maximum height of mountain forests abruptly decreases above an elevation
   breakpoint
 author_notes: []
 doi: 10.1080/15481603.2021.1894832
-publication: GIScience & Remote Sensing
+publication: "*GIScience & Remote Sensing*"
 featured: true
 image:
   filename: ""
