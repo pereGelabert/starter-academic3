@@ -18,9 +18,7 @@ featured: true
 date: 2020-02-27T19:23:54.074Z
 url_slides: ""
 title: Forest Structural Diversity Characterization in Mediterranean Landscapes
-  Affected 	by Fires Using Airborne Laser Scanning Data Forest Structural
-  Diversity Characterization in Mediterranean Landscapes a Afected by Fires
-  Using 	Airborne Laser Scanning Data
+  Affected by Fires Using Airborne Laser Scanning Data
 image:
   filename: featured
   focal_point: Smart
