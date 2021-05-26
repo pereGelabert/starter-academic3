@@ -34,7 +34,7 @@ abstract: Secondary succession (SS) is one of the main consequences of the
 draft: false
 featured: true
 image:
-  filename: ""
+  filename: imagen1.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-05-26T14:42:27.575Z
