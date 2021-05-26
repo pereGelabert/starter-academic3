@@ -38,5 +38,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-05-26T14:42:27.575Z
-url_pdf: 
+url_pdf: "Gelabert et al. - 2021 - LandTrendr smoothed spectral profiles enhance wood.pdf"
 ---
