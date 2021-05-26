@@ -10,6 +10,8 @@ authors:
   - teresa-sebastia
   - cristina-vega
 doi: https://doi.org/10.1016/j.rse.2021.112521
+publication: "*Remote Sensing of Environment*"
+publication_short: "*Remote Sensing of Environment*"
 abstract: Secondary succession (SS) is one of the main consequences of the
   abandonment of agricultural and forestry practices in rural areas, causing
   -among other processes- woody encroachment on former pastures and croplands.
@@ -32,11 +34,11 @@ abstract: Secondary succession (SS) is one of the main consequences of the
   by SS, with higher intensity in the west-central part, decreasing towards the
   eastern end.
 draft: false
+url_pdf: https://reader.elsevier.com/reader/sd/pii/S0034425721002418?token=1BAEF1C312D84797BF74571BEEDAAA4936D07431AD185134F6CBDAB4DAD8A954BE2C03EA21D34DD6DD37E5691D504FDB&originRegion=eu-west-1&originCreation=20210526150235
 featured: true
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
 date: 2021-05-26T14:42:27.575Z
-url_pdf: "https://reader.elsevier.com/reader/sd/pii/S0034425721002418?token=1BAEF1C312D84797BF74571BEEDAAA4936D07431AD185134F6CBDAB4DAD8A954BE2C03EA21D34DD6DD37E5691D504FDB&originRegion=eu-west-1&originCreation=20210526150235"
 ---
