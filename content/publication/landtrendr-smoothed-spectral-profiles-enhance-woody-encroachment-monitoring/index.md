@@ -38,5 +38,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-05-26T14:42:27.575Z
-url_pdf: "https://github.com/pereGelabert/starter-academic3/blob/master/content/publication/landtrendr-smoothed-spectral-profiles-enhance-woody-encroachment-monitoring/pdf.pdf"
+url_pdf: "https://reader.elsevier.com/reader/sd/pii/S0034425721002418?token=1BAEF1C312D84797BF74571BEEDAAA4936D07431AD185134F6CBDAB4DAD8A954BE2C03EA21D34DD6DD37E5691D504FDB&originRegion=eu-west-1&originCreation=20210526150235"
 ---
