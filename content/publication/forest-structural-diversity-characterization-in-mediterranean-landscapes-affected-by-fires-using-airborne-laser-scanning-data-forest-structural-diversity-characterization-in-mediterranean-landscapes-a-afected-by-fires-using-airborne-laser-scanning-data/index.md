@@ -14,7 +14,7 @@ publication_short: In *GIScience & Remote Sensing*
 url_source: ""
 url_video: ""
 publication: In *GIScience & Remote Sensing*
-featured: true
+featured: false
 date: 2020-02-27T19:23:54.074Z
 url_slides: ""
 title: Forest Structural Diversity Characterization in Mediterranean Landscapes
