@@ -4,7 +4,11 @@ publication_types:
   - "2"
 authors:
   - admin
-  - marcos-rodrigues;aitor-ameztegui;cristina-vega
+  - marcos-rodrigues
+  - juan-de-la-riva
+  - aitor-ameztegui
+  - teresa_sebastià
+  - cristina-vega
 doi: https://doi.org/10.1016/j.rse.2021.112521
 abstract: Secondary succession (SS) is one of the main consequences of the
   abandonment of agricultural and forestry practices in rural areas, causing
