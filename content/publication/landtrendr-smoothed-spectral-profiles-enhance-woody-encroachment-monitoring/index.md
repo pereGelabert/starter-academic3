@@ -38,5 +38,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2021-05-26T14:42:27.575Z
-url_pdf: "Gelabert et al. - 2021 - LandTrendr smoothed spectral profiles enhance wood.pdf"
+url_pdf: "https://github.com/pereGelabert/starter-academic3/blob/master/content/publication/landtrendr-smoothed-spectral-profiles-enhance-woody-encroachment-monitoring/pdf.pdf"
 ---
