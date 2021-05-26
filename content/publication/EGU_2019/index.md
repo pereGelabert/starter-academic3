@@ -13,7 +13,7 @@ publication_short: In *EGU - General Assembly*
 url_source: ""
 url_video: ""
 publication: In *European Geosciences Union*
-featured: true
+featured: false
 date: 2019-04-28T00:00:00.000Z
 url_slides: ""
 title: " An assessment of aerial carbon stock combining forest inventory data
