@@ -7,7 +7,7 @@ authors:
   - marcos-rodrigues
   - juan-de-la-riva
   - aitor-ameztegui
-  - teresa_sebastia
+  - teresa-sebastia
   - cristina-vega
 doi: https://doi.org/10.1016/j.rse.2021.112521
 abstract: Secondary succession (SS) is one of the main consequences of the
