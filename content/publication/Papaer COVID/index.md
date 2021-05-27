@@ -53,7 +53,7 @@ tags:
   - Research challenges
 image:
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 date: 2021-03-06T16:51:34.412Z
 url_slides: ""
 url_poster: ""
