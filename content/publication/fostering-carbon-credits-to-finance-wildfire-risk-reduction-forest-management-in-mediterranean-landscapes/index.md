@@ -13,8 +13,8 @@ authors:
   - teresa-cervera
   - cristina-vega
 doi: 10.3390/land10101104
-publication: Land
-publication_short: Land
+publication: "*Land*"
+publication_short: "*Land*"
 abstract: Despite the need for preserving the carbon pools in fire-prone
   southern European landscapes, emission reductions from wildfire risk
   mitigation are still poorly understood. In this study, we estimated expected
