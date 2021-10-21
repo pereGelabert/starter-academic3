@@ -34,6 +34,7 @@ abstract: Despite the need for preserving the carbon pools in fire-prone
   carbon-sink capacity. Our work may serve as a preliminary step for developing
   a carbon-credit market and subsidizing wildfire risk management programs in
   low-revenue Mediterranean forest systems prone to extreme wildfires.
+url_pdf: https://www.mdpi.com/2073-445X/10/10/1104/htm
 draft: false
 featured: false
 image:
