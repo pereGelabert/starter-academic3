@@ -15,6 +15,7 @@ publication_short: "*XV Congreso Nacional de la AEET: “El valor de la Naturale
   para una Sociedad Global”*"
 draft: false
 featured: false
+url_poster: Poster.pdf
 image:
   filename: featured
   focal_point: Smart
