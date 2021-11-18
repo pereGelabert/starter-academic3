@@ -31,6 +31,7 @@ abstract: The transition zone between the Tellian and Saharan Atlas of the
   land cover and climatic trends.
 draft: false
 featured: false
+url_pdf: https://doi.org/10.1016/j.catena.2021.105861
 tags:
   - Transition; Degradation; GEE; Landsat time series; Classification; Support
     vector machine (SVM); Land cove
