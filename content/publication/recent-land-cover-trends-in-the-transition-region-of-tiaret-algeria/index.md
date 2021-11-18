@@ -34,8 +34,8 @@ draft: false
 featured: true
 url_pdf: https://doi.org/10.1016/j.catena.2021.105861
 tags:
-  - Transition; Degradation; GEE; Landsat time series; Classification; Support
-    vector machine (SVM); Land cove
+  - Transition, Degradation, GEE, Landsat time series, Classification, Support
+    vector machine (SVM), Land cover
 image:
   filename: featured.jpg
   focal_point: Smart
