@@ -45,7 +45,7 @@ title: Has COVID-19 halted winter-spring wildfires in the Mediterranean?
 author_notes: []
 doi: https://doi.org/10.1016/j.scitotenv.2020.142793
 publication: In *Science of the Total Environment*
-featured: true
+featured: false
 tags:
   - WildfiresRisk
   - COVID-19
