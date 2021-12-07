@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - marcos-rodrigues
-  - maría-zúñiga-antón
+  - maria-zuniga
   - fermin-alcasena
   - admin
   - cristina-vega
