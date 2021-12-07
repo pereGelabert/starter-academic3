@@ -14,6 +14,7 @@ publication: Safety Science
 publication_short: "*Safety Science*"
 draft: false
 featured: false
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0925753521004562?via%3Dihub
 image:
   filename: featured
   focal_point: Smart
