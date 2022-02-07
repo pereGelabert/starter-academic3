@@ -9,8 +9,7 @@ authors:
   - fermin-alcasena
   - admin
   - cristina-vega
-doi: https://doi.org/https://doi.org/10.1016/j.ssci.2021.105616
-url_pdf: https://doi.org/https://doi.org/10.1016/j.ssci.2021.105616
+doi: https://doi.org/10.1016/j.ssci.2021.105616
 publication: Safety Science
 publication_short: "*Safety Science*"
 abstract: Despite the abundant firefighting resources deployed to reinforce the
@@ -39,6 +38,7 @@ abstract: Despite the abundant firefighting resources deployed to reinforce the
   which similar total suppression policies fail to reduce catastrophic wildfire
   losses.
 draft: false
+url_pdf: https://doi.org/https://doi.org/10.1016/j.ssci.2021.105616
 featured: false
 image:
   filename: featured
