@@ -71,7 +71,7 @@ email: "perejoan.gelabert@udl.cat"
 highlight_name: true
 ---
 <p align="justify">
-I am a <b>Geographer</b> and MSc in <b>Geographic Information System (GIS) and Remote sensing (RS)</b>. Nowadays, I’m doing a Ph.D. in Forest Remote Sensing at Forest Planning and Landscape Analysis Lab of the  {{< staticref "https://www.udl.cat" "newtab" >}}University of Lleida{{< /staticref >}} supported by University funding and projects. My current work focuses on analyzing the effects of global change on forest dynamics. I’m also involved in supporting in spatial data curation and management from lab projects.
+I am a <b>Geographer</b> and MSc in <b>Geographic Information System (GIS) and Remote sensing (RS)</b>. Now, I’m doing a Ph.D. in Remote Sensing applied to Forests dynamics under global change at <b>Forest Planning and Landscape Analysis Lab </b> of the  {{< staticref "https://www.udl.cat" "newtab" >}}University of Lleida{{< /staticref >}} supported by University funding and projects. My current work focuses on analyzing the effects of global change on forest dynamics. I’m also involved in supporting in spatial data curation and management from lab projects.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://cvn.fecyt.es/editor/cvnOnline/0000-0001-8020-4932" "newtab" >}}cv{{< /staticref >}}.
 </p>
