@@ -30,7 +30,7 @@ education:
     institution: University of Lleida
     year: Present
   - course: MsC in GIS ans RS
-    institution: Universit of Zaragoza
+    institution: University of Zaragoza
     year: 2017
   - course: Degree in Geogrpahy
     institution: University of Balearic Islands
