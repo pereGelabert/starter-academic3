@@ -32,6 +32,7 @@ abstract: Many mountain regions in Europe have experienced massive migrations
   of its drivers. These results can substantially assist land planners in
   decision-making, enabling assessments at local scale.
 draft: false
+url_pdf: https://doi.org/10.1016/j.landurbplan.2022.104487
 featured: true
 image:
   filename: ""
