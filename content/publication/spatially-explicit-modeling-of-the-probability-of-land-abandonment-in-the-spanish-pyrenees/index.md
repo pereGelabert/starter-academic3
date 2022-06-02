@@ -7,7 +7,7 @@ authors:
   - admin
   - marcos-rodrigues
   - aitor-ameztegui
-  - juan-josé-vidal-macua
+  - juan-jose-vidal-macua
   - cristina-vega
 doi: https://doi.org/10.1016/j.landurbplan.2022.104487
 abstract: Many mountain regions in Europe have experienced massive migrations
