@@ -29,7 +29,7 @@ education:
   - course: PhD candidate in Forestry Remote Sensing
     institution: University of Lleida
     year: Present
-  - course: MsC in GIS ans RS
+  - course: Msc in GIS ans RS
     institution: University of Zaragoza
     year: 2017
   - course: Degree in Geogrpahy
