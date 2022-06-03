@@ -31,7 +31,7 @@ abstract: The transition zone between the Tellian and Saharan Atlas of the
   Tellian and Saharan Atlas in the steppe region of Tiaret, and allow to explore
   land cover and climatic trends.
 draft: false
-featured: true
+featured: false
 url_pdf: https://doi.org/10.1016/j.catena.2021.105861
 tags:
   - Transition, Degradation, GEE, Landsat time series, Classification, Support
