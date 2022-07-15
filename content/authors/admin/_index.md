@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD candidate in Forestry Remote Sensing
+  - course: PhD candidate in Multiscale analysis of global change effects on forest ecosystems
     institution: University of Lleida
     year: Present
   - course: Msc in GIS ans RS
