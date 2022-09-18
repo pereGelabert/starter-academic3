@@ -1,5 +1,5 @@
 ---
-title: Jaime Ribalaygua
+title: Víctor Resco de Dios
 avatar_filename: avatar
 social: []
 superuser: false
