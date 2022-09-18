@@ -9,7 +9,7 @@ authors:
   - adrian-jimenez
   - luis-torres
   - jaime-ribalaygua
-  - cristina-veg
+  - cristina-vega
 doi: 10.3390/environsciproc2022017040
 publication: Environmental Sciences Proceedings
 publication_short: Environ. Sci. Proc.
