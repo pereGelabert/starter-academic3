@@ -6,7 +6,7 @@ authors:
   - marcos-rodrigues
   - admin
   - victor-resco
-  - adrián-jiménez-ruano
+  - adrian-jimenez
   - luis-torres
   - jaime-ribalaygua
   - cristina-veg
