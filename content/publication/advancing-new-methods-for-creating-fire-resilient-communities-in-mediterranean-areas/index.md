@@ -8,7 +8,7 @@ authors:
   - marcos-rodrigues
   - admin
   - cristina-vega
-doi: www.doi.org/10.3390/environsciproc2022017070
+doi: 10.3390/environsciproc2022017070
 publication: Environmental Sciences Proceedings
 publication_short: Environ. Sci. Proc.
 abstract: As large fires threaten human assets in Mediterranean areas, creating
