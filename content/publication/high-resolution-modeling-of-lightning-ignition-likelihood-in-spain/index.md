@@ -3,14 +3,13 @@ title: High-Resolution Modeling of Lightning Ignition Likelihood in Spain
 publication_types:
   - "1"
 authors:
-  - marcos
-  - rodrigues
+  - marcos-rodrigues
   - admin
   - victor-resco
-  - adrian-jimenez
+  - adrián-jiménez-ruano
   - luis-torres
   - jaime-ribalaygua
-  - cristina-vega
+  - cristina-veg
 doi: 10.3390/environsciproc2022017040
 publication: Environmental Sciences Proceedings
 publication_short: Environ. Sci. Proc.
@@ -27,11 +26,11 @@ abstract: >-
 
   The final model was subsequently applied to produce broad- (upscaling into 1 km) and local-scale predictions of daily lightning fire likelihood. The model attains a good predictive performance with a median AUC of 0.82. Lightning-related ignitions triggered preferably under low dead (dFMC8%) and moderate alive (DC > 250) fuel moisture conditions. Lightning strikes with negative polarity were found to trigger fires more frequently when the average density of discharges is higher than 5 at higher altitudes, especially above 500 m.a.s.l.
 draft: false
+url_pdf: 10.3390/environsciproc2022017040
 featured: false
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-url_pdf: 10.3390/environsciproc2022017040
 date: 2022-09-18T20:41:08.739Z
 ---
