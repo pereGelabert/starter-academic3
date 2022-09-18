@@ -32,5 +32,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+pdf_link: 10.3390/environsciproc2022017040
 date: 2022-09-18T20:41:08.739Z
 ---
