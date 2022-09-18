@@ -10,6 +10,8 @@ authors:
   - juanjo-vidal
   - cristina-vega
 doi: https://doi.org/10.1016/j.landurbplan.2022.104487
+publication: Landscape and Urban Planning
+publication_short: Landscape and Urban Planning
 abstract: Many mountain regions in Europe have experienced massive migrations
   towards metropolitan areas, with far-reaching implications for societies and
   the environment, especially croplands and grasslands. In this work, we
