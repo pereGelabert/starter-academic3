@@ -1,5 +1,5 @@
 ---
-title: aaa
+title: És un polvorí
 subtitle: Entrevista  TN Comarques (TV3)
 date: 2022-06-15T18:03:53.974Z
 draft: false
