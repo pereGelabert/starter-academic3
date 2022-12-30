@@ -15,6 +15,6 @@ image:
 
 TV interview related to the article: <b> Gelabert, P., M. Rodrigues, J.J. Vidal-Macua, A. Ameztegui, and C. Vega-Garcia. 2022. Spatially Explicit Modeling of the Probability of Land Abandonment in the Spanish Pyrenees. <i>Landscape and Urban Planning</i> 226: 104487. </b>
   
-<a href="https://pjgelabert.netlify.app/publication/landtrendr-smoothed-spectral-profiles-enhance-woody-encroachment-monitoring"> Link to publication </a>
+<a href="https://pjgelabert.netlify.app/publication/spatially-explicit-modeling-of-the-probability-of-land-abandonment-in-the-spanish-pyrenees/"> Link to publication </a>
 
 </p>
