@@ -11,6 +11,8 @@ image:
 ---
 <iframe title="video 5996674" src="https://www.ccma.cat/video/embed/5996674/" allowfullscreen scrolling="no" frameborder="0" width="500px" height="281px"></iframe>
 <p align="justify">
-TV interview related to the article Gelabert, P., M. Rodrigues, J. de la Riva, A. Ameztegui, M.T. Sebastià, and C. Vega-Garcia. 2021. LandTrendr Smoothed Spectral Profiles Enhance Woody Encroachment Monitoring. <i> Remote Sensing of Environment </i> 262 (September): 112521. https://doi.org/10.1016/j.rse.2021.112521.
+TV interview related to the article Gelabert, P., M. Rodrigues, J. de la Riva, A. Ameztegui, M.T. Sebastià, and C. Vega-Garcia. 2021. LandTrendr Smoothed Spectral Profiles Enhance Woody Encroachment Monitoring. <i> Remote Sensing of Environment </i>, 262, 112521.
+  
+<a href="https://pjgelabert.netlify.app/publication/landtrendr-smoothed-spectral-profiles-enhance-woody-encroachment-monitoring/"> Link to publication </a>
 
 </p>
