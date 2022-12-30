@@ -3,7 +3,7 @@ title: Nou mil hectàrees de pastura menys cada any al Pirineu
 subtitle: Entrevista  TN Comarques TV3
 date: 2022-12-30T18:17:56.280Z
 draft: false
-featured: true
+featured: false
 image:
   filename: https://img.ccma.cat/multimedia/jpg/8/6/1661776388568.jpg
   focal_point: Smart
