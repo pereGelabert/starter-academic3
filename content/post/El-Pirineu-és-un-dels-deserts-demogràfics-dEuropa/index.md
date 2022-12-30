@@ -1,6 +1,6 @@
 ---
 title: El Pirineu és un dels deserts demogràfics d’Europa
-subtitle: 30 minuts (TV3)
+subtitle: Newspaper interview (El punt avui)
 date: 2022-08-10T18:03:53.974Z
 draft: false
 featured: true
