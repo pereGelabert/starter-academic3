@@ -11,7 +11,7 @@ headless: true
 weight: 60
 
 title: Posts
-subtitle:
+subtitle: media interviews
 
 content:
   # Page type to display. E.g. post, talk, publication...
