@@ -18,4 +18,5 @@ Newspaper interview related to the article: <b> Gelabert, P., M. Rodrigues, J.J.
 <a href="https://pjgelabert.netlify.app/publication/spatially-explicit-modeling-of-the-probability-of-land-abandonment-in-the-spanish-pyrenees/"> Link to publication </a>
 
 </p>
-[!Image] https://pbs.twimg.com/media/FdzK1jnXkAABnH1?format=jpg&name=medium
+[!Image] 
+{{< figure src="https://pbs.twimg.com/media/FdzK1jnXkAABnH1?format=jpg&name=medium" caption="A caption" numbered="true" >}}
