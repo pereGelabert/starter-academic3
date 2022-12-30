@@ -6,7 +6,7 @@ title: Pere Joan Gelabert Vadillo
 superuser: true
 
 # Role/position/tagline
-role: Postdoc Researcher
+role: Postdoc - Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD candidate in Forest and Natural Environment Management
+  - course: PhD in Forest and Natural Environment Management
     institution: University of Lleida
     year: 2022
   - course: Msc in GIS ans RS
@@ -71,7 +71,7 @@ email: "perejoan.gelabert@udl.cat"
 highlight_name: true
 ---
 <p align="justify">
-I am a <b>Geographer</b> and MSc in <b>Geographic Information System (GIS) and Remote sensing (RS)</b>. Now, I’m doing a Ph.D. in Remote Sensing applied to forests dynamics under global change at <b>Forest Planning and Landscape Analysis Lab </b> of the  {{< staticref "https://www.udl.cat" "newtab" >}}University of Lleida{{< /staticref >}} supported by University funding and projects. I’m also involved in supporting spatial data curation and management from lab projects.
+I am a <b>Geographer</b> and MSc in <b>Geographic Information System (GIS) and Remote sensing (RS)</b> and a <b> PhD in Forest and Natural Environment Management </b>. Now, I'm devolping research at <b>Forest Planning and Landscape Analysis Lab </b> of the  {{< staticref "https://www.udl.cat" "newtab" >}}University of Lleida{{< /staticref >}} supported by projects funds. I’m also involved in supporting spatial data curation and management from other lab projects.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://cvn.fecyt.es/editor/cvnOnline/0000-0001-8020-4932" "newtab" >}}cv{{< /staticref >}}.
 </p>
