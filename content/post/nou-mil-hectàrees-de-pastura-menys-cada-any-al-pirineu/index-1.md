@@ -5,7 +5,7 @@ date: 2022-12-30T18:17:56.280Z
 draft: false
 featured: false
 image:
-  filename: https://img.ccma.cat/multimedia/jpg/8/6/1661776388568.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
