@@ -5,7 +5,7 @@ date: 2020-01-02T18:03:53.974Z
 draft: false
 featured: true
 image:
-  filename: https://img.ccma.cat/multimedia/jpg/8/6/1661776388568.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
