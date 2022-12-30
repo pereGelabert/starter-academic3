@@ -1,7 +1,7 @@
 ---
 title: L’abandonament dels territoris de muntanya és una qüestió socioeconòmica, no tan ambiental o natural
 subtitle: Newspaper interview (Diari de Barcelona)
-date: 2022-08-10T18:03:53.974Z
+date: 2022-06-29T18:03:53.974Z
 draft: false
 featured: true
 image:
