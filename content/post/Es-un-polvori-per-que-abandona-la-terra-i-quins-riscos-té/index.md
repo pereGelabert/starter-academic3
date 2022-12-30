@@ -1,5 +1,5 @@
 ---
-title: És un polvorí: per què s'abandona la terra i quins riscos té?
+title: És un polvorí: per què s´abandona la terra i quins riscos té?
 subtitle: Entrevista  TN Comarques (TV3)
 date: 2022-06-15T18:03:53.974Z
 draft: false
