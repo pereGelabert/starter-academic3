@@ -6,7 +6,7 @@ title: Pere Joan Gelabert Vadillo
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate
+role: Postdoc Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,9 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD candidate in Multiscale analysis of global change effects on forest ecosystems
+  - course: PhD candidate in Forest and Natural Environment Management
     institution: University of Lleida
-    year: Present
+    year: 2022
   - course: Msc in GIS ans RS
     institution: University of Zaragoza
     year: 2017
