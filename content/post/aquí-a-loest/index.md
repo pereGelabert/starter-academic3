@@ -1,8 +1,8 @@
 
 ---
 title: Radio Interview in Aquí a l'oest 
-subtitle: Radio interview (UA1 - Lleida)
-date: 2022-08-10T18:03:53.974Z
+subtitle: Aquñi a l'oest (UA1 - Lleida)
+date: 2022-09-29T18:03:53.974Z
 draft: false
 featured: true
 image:
