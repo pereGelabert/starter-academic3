@@ -1,6 +1,6 @@
 ---
 draft: false
-url_pdf: http://tig.age-geografia.es//2018_Valencia/actasXVIIICongresoTIG.pdf
+url_pdf: pdf.pdf
 publication_types:
   - "1"
 authors:
