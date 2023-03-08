@@ -41,4 +41,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2022-05-29T18:36:00.000Z
+profile: false
 ---
