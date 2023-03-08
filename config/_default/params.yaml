@@ -85,7 +85,7 @@ copyright_license:
   share_alike: true
   allow_commercial: false
   notice: 'This work is licensed under {license}'
-abstract_length: 300
+abstract_length: 800
 plugins_js: []
 avatar:
   gravatar: false
