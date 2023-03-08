@@ -14,7 +14,7 @@ publication: "8º Congreso Forestal Español"
 publication_short: "*8º Congreso Forestal Español*"
 draft: false
 featured: false
-
+url_poster: "poster.pdf"
 image:
   filename: featured
   focal_point: Smart
