@@ -1,6 +1,6 @@
 ---
 title: Adrián Jiménez-Ruano
-avatar_filename: avatar.jpg  
+avatar_filename: authors/avatar.jpg  
 superuser: false
 social:
 - icon: envelope
