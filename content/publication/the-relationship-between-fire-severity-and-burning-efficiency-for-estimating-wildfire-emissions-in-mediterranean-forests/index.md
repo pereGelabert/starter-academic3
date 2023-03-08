@@ -7,6 +7,7 @@ authors:
   - bountouraby-balde
   - cristina-vega
   - admin
+  - aitor-ameztegui
   - marcos-rodrigues
 doi: https://doi.org/10.1007/s11676-023-01599-1
 publication: Journal of Forestry Research
