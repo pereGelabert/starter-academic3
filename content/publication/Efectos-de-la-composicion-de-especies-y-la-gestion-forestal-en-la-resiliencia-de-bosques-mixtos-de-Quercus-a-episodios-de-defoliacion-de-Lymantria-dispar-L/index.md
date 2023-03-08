@@ -1,3 +1,4 @@
+---
 title: Efectos de la composicion de especies y la gestion forestal en la resiliencia de bosques mixtos de Quercus a episodios de defoliacion de Lymantria dispar L
   
 publication_types:
