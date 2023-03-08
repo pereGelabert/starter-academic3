@@ -1,6 +1,6 @@
 ---
 title: Miguel Ángel Blanco Rodríguez
-avatar_filename: "authors/avatar.jpg"
+avatar_filename: https://github.com/pereGelabert/starter-academic3/blob/master/content/authors/avatar.jpg?raw=true
 # Organizations/Affiliations to show in About widget
 organizations:
 - name:  University of Lleida
