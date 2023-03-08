@@ -5,7 +5,7 @@ superuser: false
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto: adrian.jimenez@unizar.es
+  link: mailto:adrian.jimenez@unizar.es
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Adriky89
