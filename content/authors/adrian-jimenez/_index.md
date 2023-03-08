@@ -1,16 +1,22 @@
 ---
 title: Adrián Jiménez-Ruano
-avatar_filename: avatar.jpg
-social:
-  - display:
-      header: false
-    icon_pack: fas
-    icon: envelope
-    link: mailto:adrian.jimenez@unizar.es
-  - display:
-      header: false
-    link: https://twitter.com/Adriky89
-    icon_pack: fas
-    icon: twitter
+avatar_filename: avatar.jpg  
 superuser: false
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/Adriky89
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=IbaFo2IAAAAJ&hl=es
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-7397-1818
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Adrian-Jimenez-Ruano
+
 ---
