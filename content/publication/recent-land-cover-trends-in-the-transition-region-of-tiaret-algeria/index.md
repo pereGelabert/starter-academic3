@@ -41,4 +41,5 @@ image:
   focal_point: Smart
   preview_only: true
 date: 2021-11-18T09:12:28.726Z
+profile: false
 ---
