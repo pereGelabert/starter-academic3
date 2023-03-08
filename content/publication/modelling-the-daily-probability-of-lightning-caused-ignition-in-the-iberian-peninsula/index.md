@@ -16,7 +16,7 @@ publication: International Journal of Wildland Fire
 publication_short: "*International Journal of Wildland Fire*"
 draft: false
 featured: false
-link_pdf: https://doi.org/10.1071/WF22123
+url_pdf: https://doi.org/10.1071/WF22123
 image:
   filename: featured
   focal_point: Smart
