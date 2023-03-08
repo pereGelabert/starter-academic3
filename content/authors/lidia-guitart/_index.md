@@ -1,10 +1,10 @@
 ---
 title: Lidia Guitart Xapell
-avatar_filename: https://i1.rgstatic.net/ii/profile.image/11431281114805293-1674667520923_Q128/Lidia-Guitart-Xarpell.jpg
+avatar_filename:  authors/avatar.jpg
 # Organizations/Affiliations to show in About widget
 organizations:
-- name:  University of Lleida
-  url: https://www.udl.cat/
+- name: 
+  url: 
 superuser: false
 social:
 - icon: envelope
