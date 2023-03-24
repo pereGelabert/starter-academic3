@@ -31,6 +31,4 @@ url_slides: ""
 url_poster: ""
 url_code: ""
 #profile: false
-
 ---
-
