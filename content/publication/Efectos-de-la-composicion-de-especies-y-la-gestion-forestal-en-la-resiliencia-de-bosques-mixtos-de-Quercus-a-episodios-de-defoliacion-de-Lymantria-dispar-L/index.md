@@ -8,7 +8,7 @@ authors:
   - lidia-guitart
   - admin
   - Ramon Riera
-  - MArtí Rossell
+  - Martí Rossell
   - Josep M. Espelta
 
  
