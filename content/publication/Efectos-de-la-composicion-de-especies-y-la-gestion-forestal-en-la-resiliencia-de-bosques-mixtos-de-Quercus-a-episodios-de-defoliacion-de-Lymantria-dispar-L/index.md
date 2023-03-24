@@ -7,9 +7,9 @@ authors:
   - miguel-angel-blanco
   - lidia-guitart
   - admin
-  - Ramon Riera
-  - Martí Rossell
-  - Josep Maria Espelta
+  - Ramon-Riera
+  - Martí-Rossell
+  - Josep-Maria-Espelta
  
  
 publication: *8 Congreso Forestal Español*
