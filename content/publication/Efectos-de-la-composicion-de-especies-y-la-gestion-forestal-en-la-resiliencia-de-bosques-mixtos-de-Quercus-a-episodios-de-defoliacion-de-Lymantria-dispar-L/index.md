@@ -11,7 +11,7 @@ authors:
  
 publication: 8 Congreso Forestal Español
 publication_short: 
-abstract: El cambio climático está provocando cambios en la intensidad y frecuencia de perturbaciones sobre los bosques (ej sequías, plagas, e incendios forestales) que pueden comprometer su conservación. 
+abstract: El cambio climático está provocando cambios en la intensidad y frecuencia de perturbaciones sobre los bosques (ej sequías, plagas, e incendios forestales) que pueden comprometer su conservación. Por ello, existe la urgencia en conocer como contribuyen a mejorar la resiliencia de los bosques factores como la gestión forestal o la composición de especies, aunque existen todavía pocos estudios que hayan investigado la resiliencia frente a plagas forestales. En este trabajo evaluamos la resistencia, recuperación y resiliencia (sensu LLORET al. 2011) a corto plazo de bosques mixtos de encinas y alcornoques a los episodios de defoliación causados por la lagarta peluda (Lymantria dispar L.) durante el año 2020 en la Sierra del Montnegre-Corredor (Barcelona).
 
 draft: false
 url_pdf: ""
