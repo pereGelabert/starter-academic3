@@ -6,10 +6,10 @@ publication_types:
 authors:
   - miguel-angel-blanco
   - lidia-guitart
-  - Admin
-  - Ramon Riera
-  - Martí Rossell
-  - Josep Maria Espelta
+  - admin
+  - Ramon-Riera
+  - Martí-Rossell
+  - Josep-Maria-Espelta
  
 publication: *8 Congreso Forestal Español*
 publication_short: *8 Congreso Forestal Español*
