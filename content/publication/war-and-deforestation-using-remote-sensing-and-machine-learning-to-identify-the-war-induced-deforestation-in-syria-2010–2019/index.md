@@ -40,7 +40,7 @@ abstract: Armed conflicts and other types of violence are key drivers of
   the well-being of both displaced populations and local communities.
 draft: false
 featured: false
-url_pdf: https://doi.org/10.1007/s11676-023-01599-1
+url_pdf: https://www.mdpi.com/2073-445X/12/8/1509/pdf?version=1690558016
 image:
   filename: ""
   focal_point: Smart
