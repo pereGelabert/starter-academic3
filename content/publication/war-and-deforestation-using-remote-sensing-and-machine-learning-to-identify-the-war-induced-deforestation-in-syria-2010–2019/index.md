@@ -45,5 +45,6 @@ image:
   filename: "featured.png"
   focal_point: Smart
   preview_only: false
+profile: false
 date: 2023-07-27T07:56:05.805Z
 ---
