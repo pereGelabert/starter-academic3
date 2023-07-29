@@ -42,7 +42,7 @@ draft: false
 featured: false
 url_pdf: https://www.mdpi.com/2073-445X/12/8/1509/pdf?version=1690558016
 image:
-  filename: ""
+  filename: "featured.png"
   focal_point: Smart
   preview_only: false
 date: 2023-07-27T07:56:05.805Z
