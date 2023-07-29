@@ -4,7 +4,7 @@ title: "War and Deforestation: Using Remote Sensing and Machine Learning to
 publication_types:
   - "2"
 authors:
-  - angham-daiyoub
+  - angham-dayoub
   - admin
   - sandra-saura
   - cristina-vega
