@@ -33,4 +33,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2023-11-23T12:26:33.711Z
+url_pdf: https://doi.org/10.1186/s42408-023-00228-w
+profile: false
 ---
