@@ -71,7 +71,7 @@ email: "perejoan.gelabert@udl.cat"
 highlight_name: true
 ---
 <p align="justify">
-I am a <b>Geographer</b> and MSc in <b>Geographic Information System (GIS) and Remote sensing (RS)</b> and a <b> PhD in Forest and Natural Environment Management </b>. Now, I'm devolping research at <b>Forest Planning and Landscape Analysis Lab </b> of the  {{< staticref "https://www.udl.cat" "newtab" >}}University of Lleida{{< /staticref >}} supported by projects funds. I’m also involved in supporting spatial data curation and management from other lab projects.
+I am a *Geographer* and *MSc in Geographic Information System (GIS) and Remote sensing (RS)* and a *PhD in Forest and Natural Environment Management*. Now, I’m developing my research at the Adaptafor research group of the **University of Lleida** supported by the projects **VULNIFOR** and **LLEGATS**. I’m also involved in supporting spatial data curation and management from other lab projects.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://cvn.fecyt.es/editor/cvnOnline/0000-0001-8020-4932" "newtab" >}}cv{{< /staticref >}}.
 </p>
