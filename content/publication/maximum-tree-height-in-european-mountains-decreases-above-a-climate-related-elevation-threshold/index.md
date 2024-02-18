@@ -27,10 +27,11 @@ abstract: Mountain forests face important threats from global change and
   findings contribute to understanding the impacts of global warming on mountain
   forest ecosystems and provide insights for their monitoring and management.
 draft: false
-featured: false
+featured: true
 image:
-  filename: ""
+  filename: "featured.jpg"
   focal_point: Smart
   preview_only: false
 date: 2024-02-18T17:37:50.195Z
+url_pdf: https://www.nature.com/articles/s43247-024-01246-5
 ---
