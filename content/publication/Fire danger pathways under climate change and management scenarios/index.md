@@ -7,7 +7,7 @@ authors:
   - marcos-rodrigues
   - admin
   - teresa-lamelas
-  - Raul
+  - Raul Hoffrén
   - juan-de-la-riva
   - dario-domingo
   - cristina-vega
