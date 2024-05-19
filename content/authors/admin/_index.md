@@ -6,8 +6,7 @@ title: Pere Joan Gelabert Vadillo
 superuser: true
 
 # Role/position/tagline
-role: Postdoc - Researcher
-
+role: Assistant Professor
 # Organizations/Affiliations to show in About widget
 organizations:
 - name:  University of Lleida
