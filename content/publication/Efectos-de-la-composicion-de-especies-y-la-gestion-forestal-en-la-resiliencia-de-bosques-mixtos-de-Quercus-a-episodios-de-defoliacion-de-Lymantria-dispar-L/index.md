@@ -56,7 +56,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-07-01T18:23:54.074Z
+date: 2022-06-27T18:23:54.074Z
 url_slides: ""
 url_poster: ""
 url_code: ""
