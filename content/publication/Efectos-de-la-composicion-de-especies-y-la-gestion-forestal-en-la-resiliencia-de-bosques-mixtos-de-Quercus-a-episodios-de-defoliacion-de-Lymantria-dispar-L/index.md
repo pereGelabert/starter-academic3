@@ -7,7 +7,7 @@ authors:
   - admin
   - Ramon Riera
   - Martí Rossell
-  - Josep M. Espelta
+  - Josep M. Espelt
 publication_short: 8 Congreso Forestal Español
 abstract: El cambio climático está provocando cambios en la intensidad y
   frecuencia de perturbaciones sobre los bosques (ej sequías, plagas, e
