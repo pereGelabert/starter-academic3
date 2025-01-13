@@ -1,4 +1,4 @@
-``---
+---
 publication_types:
   - "2"
 authors:
