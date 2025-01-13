@@ -1,6 +1,6 @@
 ---
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Gbenga Lawrence Alawode
   - admin
