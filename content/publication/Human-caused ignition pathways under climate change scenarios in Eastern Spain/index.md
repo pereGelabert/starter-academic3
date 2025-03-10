@@ -3,7 +3,7 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Adrian Jiménez-Ruano
+  - Adrián Jiménez-Ruano
   - Jaime Ribalaygua
   - Luis Torres
   - Marcos Rodrigues
