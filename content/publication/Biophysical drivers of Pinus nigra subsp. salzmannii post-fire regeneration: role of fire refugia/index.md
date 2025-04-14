@@ -16,7 +16,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-title: Biophysical drivers of Pinus nigra subsp. salzmannii post-fire regeneration: role of fire refugia
+title: Biophysical drivers of Pinus nigra subsp salzmannii post-fire regeneration: role of fire refugia
 doi: http://dx.doi.org/10.1007/s10980-025-02093-1
 publication: In *Landscape ecology*
 featured: true
