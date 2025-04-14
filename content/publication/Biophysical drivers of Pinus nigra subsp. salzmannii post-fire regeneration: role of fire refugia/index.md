@@ -5,7 +5,7 @@ authors:
   - Lucía Méndez-Cartín
   - Lluís Coll
   - Meg A. Krawchuk
-  - Admin
+  - admin
   - Anna Fontova-Musté
   - Aitor Ameztegui
 publication_short: In *Landscape ecology*
