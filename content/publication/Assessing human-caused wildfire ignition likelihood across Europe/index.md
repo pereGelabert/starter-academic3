@@ -30,7 +30,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2025-11-28 T19:23:54.074Z
+date: 2025-11-28T19:23:54.074Z
 url_slides: ""
 url_poster: ""
 url_code: ""
