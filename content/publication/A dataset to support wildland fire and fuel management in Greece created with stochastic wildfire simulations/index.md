@@ -25,7 +25,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-title: Assessing human-caused wildfire ignition likelihood across Europe
+title: A dataset to support wildland fire and fuel management in Greece created with stochastic wildfire simulations
 doi: https://doi.org/10.1016/j.dib.2025.112304
 publication: In *Data in Brief*
 featured: true
@@ -33,7 +33,7 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2025-11-26 T19:23:54.074Z
+date: 2025-11-26T19:23:54.074Z
 url_slides: ""
 url_poster: ""
 url_code: ""
