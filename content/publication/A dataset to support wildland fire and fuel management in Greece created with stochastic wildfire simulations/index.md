@@ -11,7 +11,7 @@ authors:
   - George Katavoutas
   - Konstantinos V. Varotsos
   - Olga Roussou
-  - admin
+  - admins
   - Adrián Jiménez-Ruano
   - Giannis Lemesios
   - Antoni Trasobares
